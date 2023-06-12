@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JETeikmann
+- 👀 I’m interested in cybersecurity, malware analysis and ethical hacking.
+- 🌱 I’m currently learning Java, Python, C, C#, C++.
+- 📚 I have experience in Windows and Linux systems and have done small Python projects in the past (will post those here).
+- 📖 I am very interested in and planning to start learning more about system architectures.
